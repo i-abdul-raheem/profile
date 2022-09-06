@@ -1,3 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 div.justify-content-end.flex-grow-1.pe-3.navbar-nav a{
     text-decoration: none;
     color: rgba(0, 0, 0, 0.9);
@@ -10,4 +16,132 @@ div.justify-content-end.flex-grow-1.pe-3.navbar-nav a:hover{
     font-weight: bold;
     transition: 0.4s;
     border-radius: 5px;
+}
+
+.myPic{
+    width: auto;
+    height: 100%;
+}
+
+.myBanner{
+    position: relative;
+    min-height: 550px;
+}
+
+ul.typewriter{
+    padding-left: 0;
+    font-size: 1.3rem;
+}
+
+ul.typewriter li{
+    list-style: none;
+    display: block;
+    width: 100%;
+}
+
+ul.social-links{
+    padding-left: 0;
+    font-size: 1.5rem;
+}
+
+ul.social-links li{
+    display: inline-block;
+}
+
+ul.social-links li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.9);
+    padding: 5px 10px;
+    margin-right: 10px;
+    transition: 0.4s;
+}
+
+ul.social-links li a:hover{
+    background: #222;
+    color: #fff;
+    transition: 0.4s;
+}
+
+.greetings .greet{
+    font-size: 2.4rem;
+    display: block;
+    color: brown;
+    text-transform: uppercase;
+}
+
+.greetings{
+    font-size: 1.8rem;
+}
+
+.greetings .fname, .greetings .lname{
+    font-weight: bold;
+}
+
+.aboutOpen{
+    display: block;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.aboutExperience{
+    font-weight: 300;
+    font-size: 1rem;
+}
+
+.about h6{
+    color: brown;
+    text-transform: uppercase;
+}
+
+.about .label{
+    color: brown;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.companies img{
+    width: 100px;
+}
+
+.contactIcon{
+    font-size: 3rem;
+}
+
+.contactLink{
+    color: #222;
+    text-decoration: none;
+}
+
+.contactLink:hover{
+    color: #222;
+    font-weight: bold;
+}
+
+.logo{
+    width: 50px;
+}
+
+.product{
+    min-width: 100px;
+    max-width: 100%;
+}
+
+.card{
+    box-shadow: 1px 1px 10px #aaa;
+}
+
+.card:hover{
+    box-shadow: 1px 1px 10px brown;
+}
+
+.resume{
+    background: brown;
+    color: #fff;
+    padding: 10px 14px;
+    text-decoration: none;
+}
+
+.resume:hover{
+    font-weight: bold;
+    color: #fff
 }

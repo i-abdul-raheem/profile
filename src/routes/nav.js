@@ -1,11 +1,23 @@
 const nav = [
     {
         title: "Home",
-        path: "/"
+        path: "#home"
+    },
+    {
+        title: "About",
+        path: "#about"
+    },
+    {
+        title: "Services",
+        path: "#services"
+    },
+    {
+        title: "Projects",
+        path: "#projects"
     },
     {
         title: "Contact",
-        path: "/contact"
+        path: "#contact"
     }
 ]
 export default nav;
