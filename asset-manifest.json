@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.b01b8b3a.css",
+    "main.js": "/react-gh-pages/static/js/main.8b48083a.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ibm.png": "/react-gh-pages/static/media/ibm.c95e5ada5348d8c72f0a.png",
+    "static/media/sit.png": "/react-gh-pages/static/media/sit.8bd43a8c0c98fbe71062.png",
+    "static/media/ecom.jpg": "/react-gh-pages/static/media/ecom.8b72627670ecd36c0c1f.jpg",
+    "static/media/upwork.png": "/react-gh-pages/static/media/upwork.cb9348baadeacfcca6e7.png",
+    "static/media/myPic.png": "/react-gh-pages/static/media/myPic.46e27900c07ec46c2208.png",
+    "static/media/fsc.png": "/react-gh-pages/static/media/fsc.6bf1944c0f35c8942ef2.png",
+    "static/media/umt.png": "/react-gh-pages/static/media/umt.e10bb94bce3dc6c3646a.png",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.9a723dc18be8b8226ed2.png",
+    "static/media/nex.png": "/react-gh-pages/static/media/nex.d76064fb27f400b5a427.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.b01b8b3a.css.map": "/react-gh-pages/static/css/main.b01b8b3a.css.map",
+    "main.8b48083a.js.map": "/react-gh-pages/static/js/main.8b48083a.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react-gh-pages/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b01b8b3a.css",
+    "static/js/main.8b48083a.js"
+  ]
+}
